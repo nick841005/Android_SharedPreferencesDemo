@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnClear = null;
     private Button btnRead = null;
     private String msg = null;
+    //test
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
